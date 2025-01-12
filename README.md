@@ -1,6 +1,6 @@
 # Better Translator Backend
 
-一个高性能的网页翻译服务后端，支持多种翻译引擎，提供高质量的英文到中文翻译服务。
+一个高性能的网页翻译服务后端，基于大模型能力构建API翻译，支持多种大模型引擎能力，提供高质量的英文到中文翻译服务。
 
 ## 功能特点
 
@@ -23,7 +23,7 @@
 
 1. 克隆仓库：
 \```bash
-git clone https://github.com/yourusername/better-translator.git
+git clone https://github.com/ChristopheZhao/Better_Translation_Backend.git
 cd better-translator/backend
 \```
 
