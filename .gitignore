@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+dist/
+__pycache__/
+.pytest_cache/
+data/
+cache/
